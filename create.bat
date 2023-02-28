@@ -1,6 +1,6 @@
 cd %~dp0
 cd ..
-set name=tax-calculator
+set name=app-name
 call npx create-react-app %name%
 powershell -Command "xcopy /s /y Create-react\stuff %name%"
 cd %name%
