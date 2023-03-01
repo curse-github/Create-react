@@ -1,2 +1,2 @@
-* linguist-vendored=false
-*.sh linguist-vendored
+* linguist-vendored
+*.vat linguist-vendored=false
